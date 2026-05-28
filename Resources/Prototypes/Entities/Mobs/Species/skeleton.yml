@@ -123,6 +123,7 @@
           groups:
             Burn: -2 # healing obviously up to discussion
             Brute: -1.5 # these groups are the only 2 possible ways to damage a skeleton
+            Asphyxiation: -1 #Fix for skeletons being permanently damaged by joining the cosmic cult
       - !type:PopupMessage
         type: Local
         visualType: Large
